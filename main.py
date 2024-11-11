@@ -103,7 +103,7 @@ async def botinfo(ctx):
         color= discord.Color.blue ()
         
     )
-    embed.set_image(url="https://i.imgur.com/5tgGSQR.png")
+    embed.set_image(url="https://i.imgur.com/WgfQvfd.png")
     
     await ctx.send(embed=embed) 
 
@@ -272,7 +272,7 @@ async def glass(ctx):
     embed.set_image(url="https://i.imgur.com/YqABUnA.jpeg") 
     await ctx.send(embed=embed)
 
-bot.run("пусто") 
+bot.run("NOTHING") 
 
 
 
